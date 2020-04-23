@@ -1,0 +1,25 @@
+{
+  "name": "flow-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WittyK/flow-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WittyK/flow-dev/issues"
+  },
+  "homepage": "https://github.com/WittyK/flow-dev#readme",
+  "dependencies": {
+    "@onflow/fcl": "0.0.28",
+    "@onflow/sdk": "0.0.14",
+    "@onflow/types": "0.0.1"
+  }
+}
